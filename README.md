@@ -21,5 +21,5 @@ This repository contains scripts (`neo4j_graph.py` and `extract_transform.py`) f
 2. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your_username/neo4j_graph_with_mongodb.git
+   git clone https://github.com/your_username/neo4j_graph_with_mongo.git
    cd neo4j_graph_with_mongodb
